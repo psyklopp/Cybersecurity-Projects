@@ -1,0 +1,26 @@
+Delivered-To: mytestbox@gmail.com
+Received: by 2002:a05:7000:43cf:b0:5b9:6343:fadd with SMTP id x15csp2212428mae;
+        Tue, 10 Sep 2024 04:59:44 -0700 (PDT)
+X-Received: by 2002:a05:690c:7011:b0:6ad:deb1:c8e0 with SMTP id 00721157ae682-6db44efaa20mr145372937b3.18.1725969584104;
+        Tue, 10 Sep 2024 04:59:44 -0700 (PDT)
+Return-Path: <returnbox@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id 00721157ae682-6db5c007697sor44266547b3.0.2024.09.10.04.59.44
+        for <mytestbox@gmail.com>
+        (Google Transport Security);
+        Tue, 10 Sep 2024 04:59:44 -0700 (PDT)
+MIME-Version: 1.0
+From: sender <senderbox@gmail.com>
+Date: Tue, 10 Sep 2024 13:59:33 +0200
+Message-ID: <CAGAtdGJXtnBDE7FFvSNeAA6QTmThX2LHtA4r-L4LcpDr=1hXMw@mail.gmail.com>
+Subject: This is a test for learning
+To: testbox@gmail.com
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <head></head>
+  <body>
+    <p>I hope you are doing good.</p>
+    Best regards, Bob<img src="http://localhost:8000/pixel.jpg" width="1" height="1">
+  </body>
+</html>
